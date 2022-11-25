@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"Christmas Radio ",
-            artist: "ChristmasRadio ",
+            name:"Christmas Songs Radio ",
+            artist: "ChristmasSongsRadio",
             cover: "https://img.freepik.com/psd-gratis/maqueta-microfono-escritorio-rectangular-vista-frontal_1332-10597.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "http://listen1.outpostradio.com/rcxmas",
+            audio: "https://sonic.magicdragon.nl/8056/stream",
             active: true,
         },
         {
@@ -49,12 +49,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Christmas 365",
-            artist: "Christmas365",
+            name:"Easy Listening Christmas",
+            artist: "EasyListeningChristmas",
             cover: "https://img.freepik.com/vector-gratis/radio-plana-retro-ilustrada_23-2148812864.jpg",
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
-            audio: "http://174.36.206.197:7038/stream",
+            audio: "https://jenny.torontocast.com:2000/stream/easy-listening-christmas",
             active: false,
         },
         {
@@ -94,12 +94,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"181.fm - Christmas Oldies",
-            artist: "181.fm-ChristmasOldies",
+            name:"Rickfmchristmas",
+            artist: "Rickfmchristmas",
             cover: "https://img.freepik.com/foto-gratis/dispositivo-digital-inalambrico-auriculares-rosa_53876-96804.jpg",
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
-            audio: "http://relay.181.fm:8108/",
+            audio: "https://rickfmchristmas.stream.laut.fm/rickfmchristmas?ref=radiode&t302=2022-11-25_19-12-24&uuid=c4f7230d-2161-4d3f-8560-5077fc85db5e",
             active: false,
         },
         {
@@ -112,12 +112,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Christmas Radio Live",
-            artist: "ChristmasRadioLive",
+            name:"ABC Christmas",
+            artist: "ABCChristmas",
             cover: "https://img.freepik.com/foto-gratis/microfono-moderno_144627-41311.jpg",
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
-            audio: "http://rosetta.shoutca.st:8232/;",
+            audio: "https://fred.torontocast.com:2620/stream",
             active: false,
         },
     ];
