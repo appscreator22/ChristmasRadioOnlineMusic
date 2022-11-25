@@ -22,15 +22,6 @@ function chillHop() {
             active: false,
         },
         {
-            name:"217FM",
-            artist: "217FM",
-            cover: "https://img.freepik.com/foto-gratis/microfono-moderno_144627-41309.jpg",
-            id: uuidv4(),
-            color: ["#1D2731", "#F17E76"],
-            audio: "http://88.198.5.134:8023/;",
-            active: false,
-        },
-        {
             name:"Big R Radio - Christmas Classics",
             artist: "BigRRadio-ChristmasClassics",
             cover: "https://img.freepik.com/foto-gratis/microfono-moderno_144627-41314.jpg",
